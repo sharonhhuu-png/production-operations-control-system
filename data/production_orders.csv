@@ -1,0 +1,16 @@
+Order_ID,Supplier,Product_Category,Order_Date,Quantity,Production_Start,Production_Progress,Approval_Status,Material_Status,Material_ETA,Packaging_Status,Inspection_Status,Ex_Factory_Date,Shipment_Status,Owner
+ORD-001,Supplier_A,Apparel,2026-07-15,5000,2026-08-20,100,Approved,On Hand,2026-08-15,Ready,Failed,2026-09-20,Pending Booking,Quality
+ORD-002,Supplier_B,Footwear,2026-08-01,2500,2026-09-10,0,Pending,Delayed,2026-09-15,In Progress,Pending,2026-10-05,Unbooked,Production
+ORD-003,Supplier_C,Accessories,2026-08-10,10000,2026-09-05,40,Approved,On Hand,2026-09-01,Ready,Passed,2026-09-25,Booked,Logistics
+ORD-004,Supplier_A,Apparel,2026-08-15,3000,2026-09-18,0,Approved,On Hand,2026-09-10,Delayed,Pending,2026-10-10,Unbooked,Production
+ORD-005,Supplier_B,Footwear,2026-07-20,1500,2026-08-25,85,Approved,On Hand,2026-08-20,Ready,Passed,2026-09-15,Booked,Logistics
+ORD-006,Supplier_D,Electronics,2026-08-25,8000,2026-09-25,0,Pending,On Hand,2026-09-20,Ready,Pending,2026-10-20,Unbooked,Production
+ORD-007,Supplier_C,Accessories,2026-08-05,4500,2026-09-08,60,Approved,Delayed,2026-09-12,In Progress,Pending,2026-09-30,Unbooked,Production
+ORD-008,Supplier_A,Apparel,2026-07-10,6000,2026-08-15,100,Approved,On Hand,2026-08-10,Ready,Passed,2026-09-10,Shipped,Logistics
+ORD-009,Supplier_B,Footwear,2026-08-18,2000,2026-09-22,0,Overdue,On Hand,2026-09-15,In Progress,Pending,2026-10-15,Unbooked,Quality
+ORD-010,Supplier_D,Electronics,2026-07-30,5500,2026-09-01,90,Approved,On Hand,2026-08-28,Delayed,Pending,2026-09-22,Pending Booking,Production
+ORD-011,Supplier_C,Accessories,2026-08-20,3500,2026-09-20,0,Approved,On Hand,2026-09-15,Ready,Pending,2026-10-10,Unbooked,Production
+ORD-012,Supplier_A,Apparel,2026-08-02,7000,2026-09-05,50,Approved,On Hand,2026-09-01,Ready,Failed,2026-09-28,Unbooked,Quality
+ORD-013,Supplier_B,Footwear,2026-08-22,4000,2026-09-28,0,Approved,Delayed,2026-10-02,In Progress,Pending,2026-10-25,Unbooked,Production
+ORD-014,Supplier_D,Electronics,2026-08-12,9000,2026-09-15,20,Approved,On Hand,2026-09-10,Ready,Pending,2026-10-08,Booked,Logistics
+ORD-015,Supplier_C,Accessories,2026-08-28,2500,2026-09-30,0,Pending,On Hand,2026-09-25,Ready,Pending,2026-10-20,Unbooked,Quality
